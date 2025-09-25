@@ -41,7 +41,7 @@ export const data = {
                 finish: 'Selesai'
             }
         },
-        address: 'Kp. Nyoman 2, RT 005/ RW 011, Desa.Cibatu tiga, Kec.Cariu, Kab.Bogor, Jawa barat (16840)'
+        address: 'Kp. Nyoman 2, RT 012/ RW 005, Desa.Cibatu tiga, Kec.Cariu, Kab.Bogor, Jawa barat (16840)'
     },
 
     link: {
