@@ -27,14 +27,14 @@ export const data = {
             date: '1',
             day: 'Rabu',
             hours: {
-                start: '11.00',
+                start: '10.00',
                 finish: 'Selesai'
             }
         },
         reception: {
             year: '2025',
             month: 'Oktober',
-            date: '2',
+            date: '2-3',
             day: 'Kamis',
             hours: {
                 start: '08.00',
@@ -46,7 +46,7 @@ export const data = {
 
     link: {
         calendar: 'https://calendar.app.google/exZ4vxFFAdarQnzT6',
-        map: 'https://goo.gl/maps/uMmtf7WoFu7uCsDm7',
+        map: 'https://maps.app.goo.gl/iKBFWu9rUyv9ogZB6',
     },
 
     galeri: [
