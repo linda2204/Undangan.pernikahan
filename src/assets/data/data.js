@@ -27,26 +27,26 @@ export const data = {
             date: '1',
             day: 'Rabu',
             hours: {
-                start: '10.00',
+                start: '11.00',
                 finish: 'Selesai'
             }
         },
         reception: {
             year: '2025',
             month: 'Oktober',
-            date: '2-3',
+            date: '2',
             day: 'Kamis',
             hours: {
                 start: '08.00',
                 finish: 'Selesai'
             }
         },
-        address: 'Kp. Nyoman 2, RT 012/ RW 005, Desa.Cibatu tiga, Kec.Cariu, Kab.Bogor, Jawa barat (16840)'
+        address: 'Kp. Nyoman 2, RT 005/ RW 011, Desa.Cibatu tiga, Kec.Cariu, Kab.Bogor, Jawa barat (16840)'
     },
 
     link: {
         calendar: 'https://calendar.app.google/exZ4vxFFAdarQnzT6',
-        map: 'https://maps.app.goo.gl/9QTnVUoY4s1f728W9',
+        map: 'https://goo.gl/maps/uMmtf7WoFu7uCsDm7',
     },
 
     galeri: [
